@@ -46,7 +46,7 @@ pip install -r requirements.txt
 cp .env.example .env
 # Then add your OpenAI API key to .env
 
-
+---
 
 ```markdown
 ---
