@@ -48,16 +48,13 @@ cp .env.example .env
 
 ---
 
+```markdown
 ## 🧪 Run the App
-# Web UI (Streamlit)
+
+### 💻 Web UI (Streamlit)
 
 ```bash
 streamlit run app.py
-
-# Terminal Mode
-
-```bash
-python main.py
 
 ---
 
