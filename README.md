@@ -48,15 +48,15 @@ cp .env.example .env
 ```
 ---
 
-```markdown
----
-
 ## 🧪 Run the App
 
-### 💻 Web UI (Streamlit)
-
 ```bash
+# Web UI (Streamlit)
 streamlit run app.py
+
+### Terminal Mode
+python main.py
+```
 
 ---
 
@@ -71,6 +71,7 @@ streamlit run app.py
 ├── requirements.txt
 └── README.md
 
+---
 
 👤 Author
 Rafael Arias – [LinkedIn](https://www.linkedin.com/in/rafael-arias-navarro/)
