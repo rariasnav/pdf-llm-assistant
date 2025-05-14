@@ -28,6 +28,8 @@ An intelligent assistant that allows you to upload and query multiple PDFs using
 
 ---
 
+## ⚙️ Installation
+
 ```bash
 # 1. Clone the repo
 git clone https://github.com/rariasnav/pdf-llm-assistant.git
@@ -46,17 +48,18 @@ cp .env.example .env
 
 ---
 
-🧪 Run the App
-Web UI (Streamlit)
+## 🧪 Run the App
+# Web UI (Streamlit)
 
 ```bash
 streamlit run app.py
 
-Terminal Mode
+# Terminal Mode
 
 ```bash
 python main.py
 
+---
 
 📁 Folder Structure
 .
