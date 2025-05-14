@@ -61,6 +61,7 @@ python main.py
 ---
 
 📁 Folder Structure
+```bash
 .
 ├── app.py                  # Web interface
 ├── main.py                 # Terminal mode
@@ -70,6 +71,7 @@ python main.py
 ├── .env.example
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
